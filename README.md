@@ -2,7 +2,7 @@
 
 Sou estudante de Engenharia de Software e desenvolvedor em aprendizado. Aqui compartilho repositórios, projeto e estudos com programação e tecnologia.
 
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=comment-discussion&logoColor=white)](https://www.linkedin.com/in/daniel-duarte-65b910322/ "Linkedin")
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=comment-discussion&logoColor=white)](https://www.linkedin.com/in/dnlduarte/ "Linkedin")
 [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-red.svg?style=for-the-badge&logo=camera&logoSource=feather)](https://www.instagram.com/dnl.duarte/?next=%2F "Instagram")
 
 ---
