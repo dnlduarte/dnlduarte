@@ -4,6 +4,7 @@ Sou estudante de Engenharia de Software e desenvolvedor em aprendizado. Aqui com
 
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=comment-discussion&logoColor=white)](https://www.linkedin.com/in/dnlduarte/ "Linkedin")
 [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-red.svg?style=for-the-badge&logo=camera&logoSource=feather)](https://www.instagram.com/dnl.duarte/?next=%2F "Instagram")
+[![Mail](https://custom-icon-badges.demolab.com/badge/-Mail-green.svg?style=for-the-badge&logo=camera&logoSource=feather)](dnlduarte.dev@gmail.com)
 [![mail](https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail)](dnlduarte.dev@gmail.com)
 
 ---
