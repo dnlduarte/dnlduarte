@@ -83,7 +83,7 @@ Sou estudante de Engenharia de Software e desenvolvedor em aprendizado. Aqui com
 
 #
 
-Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprendizado. Apaixonado por tecnologia e sempre buscando evoluir através de projetos e estudos práticos.
+Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprendizado. Apaixonado por tecnologia e sempre buscando evoluir através de projetos e estudos práticos. Aqui compartilho repositórios, projetos e estudos com programação.
 
 #
 
@@ -95,7 +95,7 @@ Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprend
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/dnl.duarte/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:dnlduarte.dev@gmail.com)
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Stacks ~</h3>
 
 <img align="left" alt="CSharp" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="DotNet" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
