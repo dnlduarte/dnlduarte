@@ -1,80 +1,3 @@
-<!-- # 👨🏻‍💻 Daniel Duarte
-
-Sou estudante de Engenharia de Software e desenvolvedor em aprendizado. Aqui compartilho repositórios, projeto e estudos com programação e tecnologia.
-
-[![Linkedin](https://custom-icon-badges.demolab.com/badge/-Linkedin-blue?style=for-the-badge&logo=comment-discussion&logoColor=white)](https://www.linkedin.com/in/dnlduarte/ "Linkedin")
-[![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-red.svg?style=for-the-badge&logo=camera&logoSource=feather)](https://www.instagram.com/dnl.duarte/?next=%2F "Instagram")
-[![Email](https://custom-icon-badges.demolab.com/badge/-Email-green.svg?style=for-the-badge&logo=mail)](mailto:dnlduarte.dev@gmail.com)
-
----
-### 📖 Linguagens
-
-<img 
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<img 
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-
-<img
-    align="left"
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> -->
-
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
@@ -109,7 +32,7 @@ Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprend
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Stats</h3>
 
 <p>
   <img
