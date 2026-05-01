@@ -87,7 +87,7 @@ Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprend
 
 #
 
-<img align="right" alt="" height="190px" src="./src/img.jpg">
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
