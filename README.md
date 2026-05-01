@@ -40,7 +40,7 @@ Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprend
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)"
+    src="https://github-readme-stats.vercel.app/api?username=dnlduarte&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
   />
   <img
     align="left"
