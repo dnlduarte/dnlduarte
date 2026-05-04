@@ -45,7 +45,7 @@ Sou Daniel Duarte, estudante de Engenharia de Software e desenvolvedor em aprend
   <img
     align="left"
     alt="Top Langs"
-    height="200"
+    height="193vh"
     src="https://github-readme-stats-ten-nu-26.vercel.app/api/top-langs/?username=dnlduarte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&exclude_repo=github-readme-stats"
   />
 </p>
